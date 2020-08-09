@@ -28,7 +28,7 @@ AddEncoding gzip svgz
   HeaderName /fancy-index/header.html
 
   # SPECIFY FOOTER FILE
-  ReadmeName /fancy-index/footer.html
+  ReadmeName ./fancy-index/footer.html
 
   # IGNORE THESE FILES
   IndexIgnoreReset ON
